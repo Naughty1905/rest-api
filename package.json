@@ -1,0 +1,25 @@
+{
+  "name": "vue-restapi-node",
+  "version": "1.0.0",
+  "description": "Vue REST API Node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "Vue",
+    "REST",
+    "API",
+    "Node"
+  ],
+  "author": "Istomin Ivan <dige1905@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^7.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
